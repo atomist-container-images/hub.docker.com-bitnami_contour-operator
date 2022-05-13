@@ -10,8 +10,5 @@ FROM bitnami/contour-operator:_
 # Tags: 1.20.1-scratch-r4
 FROM bitnami/contour-operator:1.20.1-scratch-r4
 
-# Tags: 1.20.1-scratch-r3
-FROM bitnami/contour-operator:1.20.1-scratch-r3
-
 # Tags: latest
 FROM bitnami/contour-operator:latest
